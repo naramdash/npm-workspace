@@ -4,5 +4,8 @@
   "description": "",
   "private": true,
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "workspaces": [
+    "packages\\app"
+  ]
 }
