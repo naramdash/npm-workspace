@@ -6,7 +6,7 @@
   "author": "",
   "license": "ISC",
   "workspaces": [
-    "packages\\app",
-    "packages\\shared"
+    "packages/app",
+    "packages/shared"
   ]
 }
